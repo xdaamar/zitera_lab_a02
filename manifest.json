@@ -6,7 +6,7 @@
   "owasp": "A02:2025",
   "version": "1.0.1",
   "difficulty": "Beginner",
-  "runtime": "docker",
+  "runtime": "malicious_eval",
   "entrypoint": "docker/compose.yml",
   "default_port": 8012,
   "estimated_minutes": 45,
